@@ -39,7 +39,9 @@ main{
     
 }
 
-.SEDANS h2, .Suvs h2, .Luxury h2{
+.SEDANS h1, .Suvs h2, .Luxury h2{
+    margin: 37.35px 0;
+    font-weight: 700;
     font-size: 3rem;
     font-family: Big Shoulders Display;
     color: white;
