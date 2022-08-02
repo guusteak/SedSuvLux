@@ -14,7 +14,7 @@ body{
     align-items: center;
     flex-direction: column;
     background-color: hsl(0, 0%, 95%);
-    min-height: 1500px;
+    min-height: 1300px;
 }
 
 main{
@@ -86,9 +86,10 @@ main{
 
 .button:hover{
     cursor: pointer;
-    background-color: aqua;
+    background-color: inherit;
     transform: scale(1.1);
     transition: all 300ms;
+    color: white;
 }
 
 
